@@ -1,2 +1,4 @@
 # example-react-router
-Ejemplo
+Ejemplo para React Router.
+
+Soluciones en Reorganización Administrativa.
