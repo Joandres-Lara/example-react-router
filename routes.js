@@ -1,7 +1,6 @@
 // En cada archivo dónde hagamos 
 // la sintaxis especial de React (JSX)
 // debemos importar la librería
-import { Redirect } from 'react-router'
 import React from 'react'
 import qs from 'query-string'
 // Hacemos los componentes
