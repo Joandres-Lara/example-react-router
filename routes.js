@@ -2,7 +2,6 @@
 // la sintaxis especial de React (JSX)
 // debemos importar la librería
 import React from 'react'
-import qs from 'query-string'
 // Hacemos los componentes
 // también podríamos importarlos desde archivos externos
 // pero para efectos prácticos los crearé aquí mismo
